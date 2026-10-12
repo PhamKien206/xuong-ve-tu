@@ -1,0 +1,15 @@
+{
+  "name": "Xưởng Vẽ Tủ",
+  "short_name": "Xưởng Vẽ Tủ",
+  "description": "Vẽ tủ, dựng ảnh 3D và báo giá cho xưởng nội thất",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7eaed",
+  "theme_color": "#e7eaed",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
